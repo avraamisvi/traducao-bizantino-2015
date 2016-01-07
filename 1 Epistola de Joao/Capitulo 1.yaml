@@ -5,7 +5,8 @@ origin: greek
 verses:
   -
     number: 1
-    text: O era#0000 desde#608 princípio#000,@a@ o ouvimos#201, o /que/ contemplamos#3972 com olhos#0000 nossos#0000, o examinamos#0000 e#2779 as mãos#5931 nossas#0000 tocaram#6027, /a/ respeito#4309 da palavra#3364 da vida#2437.
+    type: verse
+    text: O era#0000 desde#608 /o/ princípio#000,@a@ o /que/ ouvimos#201, o /que/ contemplamos#3972 com olhos#0000 nossos#0000, o examinamos#0000 e#2779 as mãos#5931 nossas#0000 tocaram#6027, /a/ respeito#4309 da palavra#3364 da vida#2437.
     ref:
       -
         a:
@@ -14,9 +15,15 @@ verses:
           verse: 1
   -
     number: 2
+    type: verse
     text: E#2779 a vida#2437 /foi/ manifestada#5746, e contemplamos#3972 e#2779 /temos/ testificado#3455 e#2779 /temos/ anunciado#550 /a/ vós#G5210 a vida#2437 a eterna#G166, que#4015 estava#1639 com#4639 o pai#4252 e#2779 /foi/ manifestada#5746 /a/ nós#1609.
   -
     number: 3
-    text: O#3836 /que/ contemplamos#3972 e#2779 ouvimos#201, /temos/ anunciado#550 para vós, para que#2671 também#2779 vós#G5210 comunhão#3126 tenhais#2400 com#3552 nós#1669. E#2779 a#0000 comunhão#3126
+    type: verse
+    text: O#3836 /que/ contemplamos#3972 e#2779 ouvimos#201, /temos/ anunciado#550 para vós, para que#2671 também#2779 vós#G5210 comunhão#3126 tenhais#2400 com#3552 nós#1669. E#2779 a#0000 comunhão#3126 também#1254 a#3836 nossa#2466 com#3552 do#3836 pai#4252 e#2779 com#3552 do#3836 filho#5626 dele#899 Jesus#2652 Cristo#5986.
   -
-    
+    number: 4
+    type: verse
+    text: text
+  -
+    type: paragraph
