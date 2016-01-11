@@ -2,6 +2,7 @@
 number: 1
 language: portuguese
 origin: greek
+translation: Abraão Isvi
 verses:
   -
     number: 1
@@ -30,4 +31,16 @@ verses:
   -
     number: 5
     type: verse
-    text: E#2779 é#G2076 esta#4047 a#3836 mensagem#32 que#G3739 ouvimos#201 @da parte#608 dele#899 e#2779 anunciamos#334 /para/ vós#G5213, que#000 o#3836 DEUS#G2316 luz#5890 é#G2076 e#2779
+    text: E#2779 é#G2076 esta#4047 a#3836 mensagem#32 que#G3739 ouvimos#201 @da parte#608 dele#899 e#2779 anunciamos#334 /para/ vós#G5213, que#4022 o#3836 DEUS#G2316 luz#5890 é#G2076 e#2779 trevas#5028 em#1877 ele#899 não#4024 há#G2076 nenhuma#4029.
+  -
+    number: 6
+    type: verse
+    text: Se#1569 dissermos#3306 que#4022 comunhão#3126 temos#2400 com#3552 ele#899 e#2779 em#1877 as#3836 trevas#5030 andamos#4344, enganamo-nos#6017 e#2779 não#4024 praticamos#4472 a#3836 verdade#237;
+  -
+    number: 7
+    type: verse
+    text: se#1569 @por outro lado#1254 em#1877 a#3836 luz#5890 andamos#4344, como#6055 ele#899 está#1639 em#1877 a#3836 luz#5890, comunhão#3126 temos#2400 com#3552 @uns aos outros#253, e#2779 o#3836 sangue#135 dele#899 do#3836 filho#5626 Jesus#2652 Cristo#5986 purifica#2751 nós#1669 desde#608 cada#4246 pecado#281;
+  -
+    number: 8
+    type: verse
+    text: se#1569 dissermos#3306 que#4022 pecado#281 não#4024 temos#2400
